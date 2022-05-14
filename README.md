@@ -1,13 +1,16 @@
-# **Alan George**  
-##### Full Stack Software Engineer | DoD Secret Security Clearance
+# Alan George
+### Full Stack Software Engineer 
+#### *DoD Secret Security Clearance*
+
 ---
-##### **Contact**  
+
+### Contact  
 Phone: (321) 323-9075  
 E-mail: alan.e.george86@gmail.com  
 LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)  
-GitHub: [HWCronicus](http://www.github.com/HWCronicus)  
+
 ---
-##### **Skills**
+### Skills
 - Javascript  
 - React.JS  
 - C#  
@@ -24,7 +27,7 @@ GitHub: [HWCronicus](http://www.github.com/HWCronicus)
 - Adaptable  
 ---
 
-##### **Software**
+### Software
 - Visual Studio 
 - Visual Studio Code
 - Microsoft SQL Server Management Studio
@@ -40,7 +43,7 @@ GitHub: [HWCronicus](http://www.github.com/HWCronicus)
 - Microsoft Suite
 ---
 
-##### **Work History**
+### Work History
 **Full Stack Software Engineer**    
 **Trainsquare** *Remote*  
 Jan 2022 - Current   
@@ -51,10 +54,10 @@ Jan 2022 - Current
 - Designed detailed SQL data structures allowing complex data sets to be easily managed.
 - Paired with fellow engineers during morning stand-ups and throughout the day to brainstorm ideas, debug problems and review code.
 - Performed development, debugging, optimization and automation to support implementation of products and applications.
-- Developed complex software and systems deploying Javascript, React.JS, C#, .NET, and SQL
+- Developed complex software and systems deploying Javascript, React.JS, C#, .NET, and SQL  
 
-**Critical Care Flight Paramedic**
-**United States Army** *Savannah, Ga*
+**Critical Care Flight Paramedic**  
+**United States Army** *Savannah, Ga*  
 Apr 2008 - Jan 2022  
 - Performed wide range of specialized functions and complex assessments, diagnoses, therapies and emergency treatment of patients transported by rotor-wing aircraft.
 - Provided leadership, delegation and exceptional medical service in high-pressure situations.
