@@ -5,7 +5,7 @@
 ---
 
 ### Contact  
-Phone: (321) 323-9075  
+Phone: (321) 394-5451 
 E-mail: alan.e.george86@gmail.com  
 LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)  
 
