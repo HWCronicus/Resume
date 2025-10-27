@@ -11,6 +11,7 @@ LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)
 
 ---
 ### Skills
+- Typescript
 - Javascript  
 - React.JS  
 - C#  
@@ -44,6 +45,23 @@ LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)
 ---
 
 ### Work History
+
+**Full Stack Web Developer**    
+**SimX** *Remote*  
+Jan 2022 - Current  
+- Used Typescript, NodeJS, and ORMs to develop several APIs from the
+ground up, interacting with SQL & No-SQL databases.
+Planned and engineered RESTful web services to manipulate dynamic
+datasets.
+- Proved successful working within tight deadlines and a fast-paced
+environment.
+Developed functional databases, applications and servers to support websites
+on back-end.
+- Maintained complex technology infrastructure and collaborated with
+product team to implement new features and strategically plan for future
+products.
+- Developed unit test cases for testing and automation.
+
 **Full Stack Software Engineer**    
 **Trainsquare** *Remote*  
 Jan 2022 - Current   
