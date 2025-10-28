@@ -52,7 +52,7 @@ LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)
 
 **Full Stack Web Developer**    
 **SimX** *Remote*  
-Jan 2022 - Nov 2025  
+July 2022 - Nov 2025  
 - Orchestrated the development of 4 robust APIs from scratch utilizing Typescript and Node.JS, interfacing with both SQL and No-SQL databases; maintained 99.9% uptime and availability.
 - Engineered data migration scripts handling over one hundred thousand records between databases securely with zero downtime, allowing seamless updates that increased database integrity when    integrating legacy systems into modern architectures.
 - Overhauled existing codebase for enhanced performance, improving software maintainability; triaged and resolved 15 critical production bugs, ensuring system stability for over 1000+ users.
@@ -62,7 +62,7 @@ Jan 2022 - Nov 2025
 
 **Full Stack Software Engineer**    
 **Trainsquare** *Remote*  
-Jan 2022 - Current   
+Jan 2022 - July 2022   
 - Constructed an application wide file storage and management solution that incorporated AWS S3.
 - Established a robust API developed with .NET and C# that interacts with multiple SQL data, lookup, and user defined tables from the ground up.
 - Built multiple frontend UI components with React.JS and bootstrap to allow easy online usability of the file storage and management solution.
