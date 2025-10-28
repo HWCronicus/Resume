@@ -13,16 +13,18 @@ LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)
 ### Skills
 - Typescript
 - Javascript  
-- React.JS  
+- React.JS
+- Angular
+- PostgreSQL
+- MySQL  
 - C#  
 - .NET 
-- SQL  
 - CSS  
-- HTML/HTML5  
-- JQuery  
+- JQuery
+- AWS
+- Docker
 - Git Source Control  
 - Agile Workflow  
-- Web development projects Website optimization Decision Making  
 - Leadership  
 - Critical Thinking  
 - Adaptable  
@@ -37,6 +39,8 @@ LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)
 - Yarn
 - Insomnia
 - Postman
+- DBeaver
+- phpMyAdmin
 - WinSCP
 - Slack
 - Trello
@@ -48,19 +52,13 @@ LinkedIn: [in/alan-e-george/](http://www.linked.com/in/alan-e-george/)
 
 **Full Stack Web Developer**    
 **SimX** *Remote*  
-Jan 2022 - Current  
-- Used Typescript, NodeJS, and ORMs to develop several APIs from the
-ground up, interacting with SQL & No-SQL databases.
-Planned and engineered RESTful web services to manipulate dynamic
-datasets.
-- Proved successful working within tight deadlines and a fast-paced
-environment.
-Developed functional databases, applications and servers to support websites
-on back-end.
-- Maintained complex technology infrastructure and collaborated with
-product team to implement new features and strategically plan for future
-products.
-- Developed unit test cases for testing and automation.
+Jan 2022 - Nov 2025  
+- Orchestrated the development of 4 robust APIs from scratch utilizing Typescript and Node.JS, interfacing with both SQL and No-SQL databases; maintained 99.9% uptime and availability.
+- Engineered data migration scripts handling over one hundred thousand records between databases securely with zero downtime, allowing seamless updates that increased database integrity when    integrating legacy systems into modern architectures.
+- Overhauled existing codebase for enhanced performance, improving software maintainability; triaged and resolved 15 critical production bugs, ensuring system stability for over 1000+ users.
+- Pioneered the implementation of 30+ novel features, collaborating with product teams for future products, and accelerate the delivery of enhancements to bi-weekly sprints.
+- Developed functional databases, applications and servers to support websites on back-end.
+- Championed automated testing strategy, generating 100+ unit test cases using Jest and Supertest; improved code coverage to 80% and diminished post-release defects by 25%.
 
 **Full Stack Software Engineer**    
 **Trainsquare** *Remote*  
