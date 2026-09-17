@@ -1,82 +1,62 @@
-# Alan George
-### Full Stack Software Engineer 
-#### *DoD Secret Security Clearance*
+# Hi there, I'm Alan George 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-e-george)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alangeorge.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan.e.george@outlook.com)
+
+**Dynamic Full-Stack Developer** with extensive experience building modern, scalable applications using **TypeScript**, **Go**, and **C#**. Passionate about web architecture, cloud deployment, and integrating AI-assisted workflows (Copilot, Claude, local LLMs) into the software lifecycle.
+
+Former **U.S. Army Critical Care Flight Paramedic** with 14 years of leadership and high-pressure problem-solving experience. Currently pursuing an A.S. in Computer Information Technology.
 
 ---
 
-### Contact  
-Phone: (321) 394-5451
-E-mail: alan.e.george86@gmail.com  
-LinkedIn: [in/alan-e-george/](https://www.linkedin.com/in/alan-e-george/)  
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** TypeScript, JavaScript, Go, C#, SQL, HTML5, CSS3
+- **Frontend:** React.js, Next.js, Angular, Bootstrap, Tailwind CSS, Formik
+- **Backend:** Node.js, Express.js, NestJS, .NET / C#, RESTful APIs
+- **Databases & Cloud:** PostgreSQL, SQL, NoSQL, AWS (ECS, S3), Docker
+- **Tools & Practices:** Git, GitHub Actions (CI/CD), Jest, Supertest, Electron, AI-Assisted Pair Programming
 
 ---
-### Skills
-- Typescript
-- Javascript  
-- React.JS
-- Angular
-- PostgreSQL
-- MySQL  
-- C#  
-- .NET 
-- CSS  
-- JQuery
-- AWS
-- Docker
-- Git Source Control  
-- Agile Workflow  
-- Leadership  
-- Critical Thinking  
-- Adaptable  
+
+### 💼 Professional Experience
+
+#### **Owner & Lead Developer** | *South Swell Software*
+*March 2026 – Present | Orange Park, FL*
+- Founded and operated a full-stack web development agency delivering end-to-end solutions from architecture to cloud deployment.
+- Architected production web applications using **React** and **Next.js** for frontend, coupled with **Node.js (NestJS/Express)**, **Go**, and **PostgreSQL** backends.
+- Integrated AI coding harnesses (OpenCode, Claude, Copilot) and locally deployed LLMs for secure, offline refactoring and accelerated development.
+
+#### **Full Stack Web Developer** | *SimX*
+*July 2022 – January 2026 | Remote*
+- Built **4 microservice APIs** from scratch (TypeScript, Express, NestJS, Node.js) maintaining **99.9% uptime**.
+- Collaborated on **3 Angular applications**, standardizing modular component architecture and REST integration.
+- Developed a cross-platform desktop app using **Electron**, **NestJS**, and **React** for Windows, macOS, and Linux.
+- Engineered Docker containerization strategies and automated CI/CD pipelines via **GitHub Actions** deploying to **AWS ECS**.
+- Improved code coverage to **80%** with **100+ unit tests** (Jest, Supertest), cutting post-release defects by 25%.
+
+#### **Full Stack Software Engineer** | *Trainsquare*
+*January 2022 – July 2022 | Remote*
+- Developed an AWS S3 integration with a **.NET / C# API**, reducing file access latency by 30%.
+- Engineered RESTful endpoints in .NET to handle multi-table SQL queries serving 100+ requests daily.
+- Built dynamic form/survey components using React.js, Bootstrap, Formik, and Yup.
+
+#### **Critical Care Flight Paramedic** | *United States Army*
+*April 2008 – January 2022 | Savannah, GA*
+- Performed high-stakes critical care treatment, diagnosis, and emergency transport aboard rotor-wing aircraft.
+- Led dynamic medical teams under high-pressure, tactical conditions while maintaining medical precision.
+
 ---
 
-### Software
-- Visual Studio 
-- Visual Studio Code
-- Microsoft SQL Server Management Studio
-- GitHub Desktop
-- NPM
-- Yarn
-- Insomnia
-- Postman
-- DBeaver
-- phpMyAdmin
-- WinSCP
-- Slack
-- Trello
-- Arduion IDE
-- Microsoft Suite
+### 🎓 Education & Certifications
+
+- **Associate of Science in Computer Information Technology**  
+  *Florida State College at Jacksonville* | Expected Jan 2027
+- **Certified Software Engineer**  
+  *Veterans Technology Education Courses (VET TEC), U.S. Army* | Jan 2022
+
 ---
 
-### Work History
-
-**Full Stack Web Developer**    
-**SimX** *Remote*  
-July 2022 - Nov 2025  
-- Orchestrated the development of 4 robust APIs from scratch utilizing Typescript and Node.JS, interfacing with both SQL and No-SQL databases; maintained 99.9% uptime and availability.
-- Engineered data migration scripts handling over one hundred thousand records between databases securely with zero downtime, allowing seamless updates that increased database integrity when    integrating legacy systems into modern architectures.
-- Overhauled existing codebase for enhanced performance, improving software maintainability; triaged and resolved 15 critical production bugs, ensuring system stability for over 1000+ users.
-- Pioneered the implementation of 30+ novel features, collaborating with product teams for future products, and accelerate the delivery of enhancements to bi-weekly sprints.
-- Developed functional databases, applications and servers to support websites on back-end.
-- Championed automated testing strategy, generating 100+ unit test cases using Jest and Supertest; improved code coverage to 80% and diminished post-release defects by 25%.
-
-**Full Stack Software Engineer**    
-**Trainsquare** *Remote*  
-Jan 2022 - July 2022   
-- Constructed an application wide file storage and management solution that incorporated AWS S3.
-- Established a robust API developed with .NET and C# that interacts with multiple SQL data, lookup, and user defined tables from the ground up.
-- Built multiple frontend UI components with React.JS and bootstrap to allow easy online usability of the file storage and management solution.
-- Created dynamic user form and survey creation functionality using elements from multiple React.JS libraries to include Formik, Bootstrap, React Bootstrap, and Yup.
-- Designed detailed SQL data structures allowing complex data sets to be easily managed.
-- Paired with fellow engineers during morning stand-ups and throughout the day to brainstorm ideas, debug problems and review code.
-- Performed development, debugging, optimization and automation to support implementation of products and applications.
-- Developed complex software and systems deploying Javascript, React.JS, C#, .NET, and SQL  
-
-**Critical Care Flight Paramedic**  
-**United States Army** *Savannah, Ga*  
-Apr 2008 - Jan 2022  
-- Performed wide range of specialized functions and complex assessments, diagnoses, therapies and emergency treatment of patients transported by rotor-wing aircraft.
-- Provided leadership, delegation and exceptional medical service in high-pressure situations.
-- Provided emergency medical care and conducted physical exams and interviews to gain medical history and relevant health data.
-- Maintained team flexibility and embraced change to adapt within dynamic environments.  
-
+📫 **Let's Connect!**
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/alan-e-george) or check out my work at [alangeorge.dev](https://alangeorge.dev).
